@@ -27,6 +27,14 @@ Fork:
 Go commit 51937:
 10 minutes and 4 secounds
 
+TEST3 without cache
+
+Fork:
+59.23
+
+Go commit 51937:
+24 minutes and 57 seconds
+
 
 
 
