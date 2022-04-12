@@ -27,10 +27,10 @@ Fork:
 Go commit 51937:
 10 minutes and 4 secounds
 
-TEST3 without cache
+TEST3 without cache and a ram reset
 
 Fork:
-59.23
+59.23 seconds
 
 Go commit 51937:
 24 minutes and 57 seconds
