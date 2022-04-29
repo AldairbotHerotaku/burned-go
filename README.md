@@ -1,3 +1,6 @@
+#ARCHIVED
+this comit only was for test that fork a little bit, idk if it still working
+
 a repo for test a fork of go by diamondburned
 #### PC SPECS
 GOARCH: amd64
