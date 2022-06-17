@@ -14,7 +14,7 @@
 
 pkgname=go-git
 epoch=1
-pkgver=go1.17beta1.r3191.g50e04befec
+pkgver=go1.15beta2.r138.gba9e1088997
 pkgrel=1
 pkgrepo=go
 pkgdesc='Core compiler tools for the Go programming language'
